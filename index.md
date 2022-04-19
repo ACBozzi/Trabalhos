@@ -6,4 +6,4 @@ Esse trabalho tem como proposta a construção de um protótipo de envio de mens
 
 Link da apresentação no youtube: https://www.youtube.com/watch?v=ybA5QrfZmAY
 
-Link para o código utilizado para o desenvolvimento desse sistema: https://github.com/claudiotorresjr/cliente-servidor-TLS
+Link para repositório do código utilizado para o desenvolvimento desse sistema: https://github.com/claudiotorresjr/cliente-servidor-TLS
