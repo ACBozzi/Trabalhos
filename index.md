@@ -1,4 +1,4 @@
-## Bem vindo página, da dupla Anna e Cláudio, para publicações referentes a Tópicos Avançados em Redes!
+## Bem vindo página da dupla Anna e Cláudio, para publicações referentes a Tópicos Avançados em Redes!
 
 Esse trabalho tem como proposta a construção de um protótipo de envio de mensagem, baseado em um chat de perguntas em que o usuário é anônimo.
 
